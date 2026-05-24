@@ -94,5 +94,2909 @@
       "daily": 10,
       "creative": 8
     }
+  },
+  {
+    "name": "黄瑾瑜",
+    "pinyin": "Huáng Jǐnyú",
+    "gender": "female",
+    "meaning": "Fine jade, symbolizes virtue, beauty and enduring value",
+    "tags": ["elegant", "precious", "traditional"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周星辰",
+    "pinyin": "Zhōu Xīngchén",
+    "gender": "male",
+    "meaning": "Stars in the sky, symbolizes brilliance, lofty ideals and unlimited potential",
+    "tags": ["bright", "ambitious", "romantic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "吴书瑶",
+    "pinyin": "Wú Shūyáo",
+    "gender": "female",
+    "meaning": "Book and precious jade, symbolizes wisdom, elegance and cultural refinement",
+    "tags": ["intelligent", "elegant", "traditional"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑景行",
+    "pinyin": "Zhèng Jǐngxíng",
+    "gender": "male",
+    "meaning": "Respectable conduct, symbolizes noble character and upright personality",
+    "tags": ["noble", "traditional", "professional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "王若初",
+    "pinyin": "Wáng Ruòchū",
+    "gender": "neutral",
+    "meaning": "As pure as the beginning, symbolizes innocence, sincerity and unchanging heart",
+    "tags": ["pure", "poetic", "modern"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李思语",
+    "pinyin": "Lǐ Sīyǔ",
+    "gender": "female",
+    "meaning": "Thoughtful words, symbolizes wisdom, eloquence and gentle nature",
+    "tags": ["intelligent", "gentle", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张泽宇",
+    "pinyin": "Zhāng Zéyǔ",
+    "gender": "male",
+    "meaning": "Graceful universe, symbolizes broad mind, kindness and great potential",
+    "tags": ["kind", "ambitious", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "刘梦琪",
+    "pinyin": "Liú Mèngqí",
+    "gender": "female",
+    "meaning": "Beautiful jade in dreams, symbolizes imagination, purity and美好 aspirations",
+    "tags": ["romantic", "pure", "creative"],
+    "suitability": {
+      "business": 6,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "陈梓轩",
+    "pinyin": "Chén Zǐxuān",
+    "gender": "male",
+    "meaning": "Vigorous and elegant, symbolizes vitality, elegance and bright future",
+    "tags": ["vital", "elegant", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨沐阳",
+    "pinyin": "Yáng Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵雨桐",
+    "pinyin": "Zhào Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, resilience and noble character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄俊凯",
+    "pinyin": "Huáng Jùnkǎi",
+    "gender": "male",
+    "meaning": "Outstanding and triumphant, symbolizes talent, success and leadership",
+    "tags": ["strong", "talented", "professional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "周安然",
+    "pinyin": "Zhōu Ānrán",
+    "gender": "neutral",
+    "meaning": "Peaceful and calm, symbolizes tranquility, stability and contentment",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴雅琪",
+    "pinyin": "Wú Yǎqí",
+    "gender": "female",
+    "meaning": "Elegant and precious jade, symbolizes refinement, beauty and noble character",
+    "tags": ["elegant", "precious", "traditional"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑明哲",
+    "pinyin": "Zhèng Míngzhé",
+    "gender": "male",
+    "meaning": "Bright wisdom, symbolizes intelligence, insight and philosophical thinking",
+    "tags": ["intelligent", "wise", "professional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王梓涵",
+    "pinyin": "Wáng Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and broad knowledge",
+    "tags": ["intelligent", "vital", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李可欣",
+    "pinyin": "Lǐ Kěxīn",
+    "gender": "female",
+    "meaning": "Joyful and appreciated, symbolizes happiness, charm and positive energy",
+    "tags": ["happy", "charming", "friendly"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张子豪",
+    "pinyin": "Zhāng Zǐháo",
+    "gender": "male",
+    "meaning": "Outstanding and heroic, symbolizes bravery, ambition and extraordinary talent",
+    "tags": ["strong", "ambitious", "heroic"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "刘思远",
+    "pinyin": "Liú Sīyuǎn",
+    "gender": "male",
+    "meaning": "Think far and wide, symbolizes foresight, ambition and broad vision",
+    "tags": ["intelligent", "ambitious", "wise"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈静怡",
+    "pinyin": "Chén Jìngyí",
+    "gender": "female",
+    "meaning": "Calm and joyful, symbolizes serenity, elegance and peaceful nature",
+    "tags": ["gentle", "calm", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨文昊",
+    "pinyin": "Yáng Wénhào",
+    "gender": "male",
+    "meaning": "Cultured and vast sky, symbolizes talent, broad mind and great aspirations",
+    "tags": ["talented", "ambitious", "creative"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵雨薇",
+    "pinyin": "Zhào Yǔwēi",
+    "gender": "female",
+    "meaning": "Rose in rain, symbolizes beauty, resilience and gentle strength",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄嘉宇",
+    "pinyin": "Huáng Jiāyǔ",
+    "gender": "male",
+    "meaning": "Excellent universe, symbolizes goodness, broad mind and bright future",
+    "tags": ["kind", "ambitious", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周诗涵",
+    "pinyin": "Zhōu Shīhán",
+    "gender": "female",
+    "meaning": "Poetic and profound, symbolizes literary talent, elegance and depth of character",
+    "tags": ["poetic", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "吴子轩",
+    "pinyin": "Wú Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding and elegant, symbolizes talent, grace and noble temperament",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑雨欣",
+    "pinyin": "Zhèng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and happy growth",
+    "tags": ["happy", "vital", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王宇航",
+    "pinyin": "Wáng Yǔháng",
+    "gender": "male",
+    "meaning": "Space navigation, symbolizes ambition, exploration and unlimited future",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "李语桐",
+    "pinyin": "Lǐ Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张俊杰",
+    "pinyin": "Zhāng Jùnjié",
+    "gender": "male",
+    "meaning": "Outstanding and heroic, symbolizes talent, bravery and leadership qualities",
+    "tags": ["strong", "talented", "professional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "刘佳怡",
+    "pinyin": "Liú Jiāyí",
+    "gender": "female",
+    "meaning": "Beautiful and joyful, symbolizes goodness, happiness and pleasant personality",
+    "tags": ["happy", "kind", "friendly"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈明宇",
+    "pinyin": "Chén Míngyǔ",
+    "gender": "male",
+    "meaning": "Bright universe, symbolizes wisdom, broad mind and bright future",
+    "tags": ["bright", "ambitious", "wise"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨紫涵",
+    "pinyin": "Yáng Zǐhán",
+    "gender": "female",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and graceful character",
+    "tags": ["vital", "elegant", "intelligent"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵浩然",
+    "pinyin": "Zhào Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity, broad mind and righteous character",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "黄思彤",
+    "pinyin": "Huáng Sītóng",
+    "gender": "female",
+    "meaning": "Thoughtful and vibrant, symbolizes wisdom, warmth and energetic personality",
+    "tags": ["intelligent", "warm", "vital"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周子豪",
+    "pinyin": "Zhōu Zǐháo",
+    "gender": "male",
+    "meaning": "Outstanding hero, symbolizes bravery, ambition and extraordinary achievements",
+    "tags": ["strong", "ambitious", "heroic"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "吴雨桐",
+    "pinyin": "Wú Yǔtóng",
+    "gender": "neutral",
+    "meaning": "Phoenix tree nourished by rain, symbolizes growth, resilience and grace",
+    "tags": ["resilient", "elegant", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "郑佳琪",
+    "pinyin": "Zhèng Jiāqí",
+    "gender": "female",
+    "meaning": "Excellent and precious jade, symbolizes goodness, beauty and value",
+    "tags": ["kind", "precious", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王伟泽",
+    "pinyin": "Wáng Wěizé",
+    "gender": "male",
+    "meaning": "Great kindness, symbolizes power, generosity and benevolent character",
+    "tags": ["strong", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "李梦瑶",
+    "pinyin": "Lǐ Mèngyáo",
+    "gender": "female",
+    "meaning": "Precious jade in dreams, symbolizes romance, beauty and美好 aspirations",
+    "tags": ["romantic", "precious", "creative"],
+    "suitability": {
+      "business": 6,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张宇辰",
+    "pinyin": "Zhāng Yǔchén",
+    "gender": "male",
+    "meaning": "Universe and stars, symbolizes vast potential, brilliance and lofty ideals",
+    "tags": ["ambitious", "bright", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘若曦",
+    "pinyin": "Liú Ruòxī",
+    "gender": "female",
+    "meaning": "Like morning sunlight, symbolizes hope, warmth and bright future",
+    "tags": ["bright", "warm", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈子昂",
+    "pinyin": "Chén Zǐáng",
+    "gender": "male",
+    "meaning": "Outstanding and soaring, symbolizes ambition, talent and rising success",
+    "tags": ["ambitious", "talented", "strong"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨诗琪",
+    "pinyin": "Yáng Shīqí",
+    "gender": "female",
+    "meaning": "Poetic jade, symbolizes literary talent, elegance and precious character",
+    "tags": ["poetic", "elegant", "creative"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "赵俊豪",
+    "pinyin": "Zhào Jùnháo",
+    "gender": "male",
+    "meaning": "Talented and heroic, symbolizes outstanding ability, bravery and leadership",
+    "tags": ["strong", "talented", "professional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "黄雨萱",
+    "pinyin": "Huáng Yǔxuān",
+    "gender": "female",
+    "meaning": "Rain-nourished daylily, symbolizes beauty, vitality and maternal warmth",
+    "tags": ["warm", "vital", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周泽宇",
+    "pinyin": "Zhōu Zéyǔ",
+    "gender": "male",
+    "meaning": "Graceful universe, symbolizes kindness, broad mind and great potential",
+    "tags": ["kind", "ambitious", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴欣怡",
+    "pinyin": "Wú Xīnyí",
+    "gender": "female",
+    "meaning": "Joyful and pleasant, symbolizes happiness, optimism and attractive personality",
+    "tags": ["happy", "friendly", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑浩然",
+    "pinyin": "Zhèng Hàorán",
+    "gender": "male",
+    "meaning": "Vast and upright, symbolizes integrity, noble character and broad mind",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "王语欣",
+    "pinyin": "Wáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful words, symbolizes eloquence, happiness and pleasant communication",
+    "tags": ["intelligent", "happy", "friendly"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李子轩",
+    "pinyin": "Lǐ Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble temperament",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "张思琪",
+    "pinyin": "Zhāng Sīqí",
+    "gender": "female",
+    "meaning": "Thoughtful jade, symbolizes wisdom, beauty and precious character",
+    "tags": ["intelligent", "precious", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘宇航",
+    "pinyin": "Liú Yǔháng",
+    "gender": "male",
+    "meaning": "Space exploration, symbolizes ambition, adventure and pioneering spirit",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "陈雨欣",
+    "pinyin": "Chén Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and new beginnings",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨子涵",
+    "pinyin": "Yáng Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and well-rounded character",
+    "tags": ["vital", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵雅楠",
+    "pinyin": "Zhào Yǎnán",
+    "gender": "female",
+    "meaning": "Elegant cedar, symbolizes grace, resilience and noble character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄明宇",
+    "pinyin": "Huáng Míngyǔ",
+    "gender": "male",
+    "meaning": "Bright universe, symbolizes wisdom, broad mind and bright prospects",
+    "tags": ["bright", "ambitious", "wise"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周佳怡",
+    "pinyin": "Zhōu Jiāyí",
+    "gender": "female",
+    "meaning": "Beautiful joy, symbolizes goodness, happiness and pleasant personality",
+    "tags": ["kind", "happy", "friendly"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴俊宇",
+    "pinyin": "Wú Jùnyǔ",
+    "gender": "male",
+    "meaning": "Handsome universe, symbolizes talent, broad mind and attractive personality",
+    "tags": ["talented", "charming", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑雨桐",
+    "pinyin": "Zhèng Yǔtóng",
+    "gender": "female",
+    "meaning": "Rain-nourished phoenix tree, symbolizes growth, elegance and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "王思远",
+    "pinyin": "Wáng Sīyuǎn",
+    "gender": "male",
+    "meaning": "Foresight and vision, symbolizes wisdom, ambition and strategic thinking",
+    "tags": ["intelligent", "ambitious", "wise"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李雨桐",
+    "pinyin": "Lǐ Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and strong character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张浩然",
+    "pinyin": "Zhāng Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity, broad mind and righteous spirit",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "刘诗雨",
+    "pinyin": "Liú Shīyǔ",
+    "gender": "female",
+    "meaning": "Poetic rain, symbolizes grace, creativity and romantic temperament",
+    "tags": ["poetic", "elegant", "creative"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "陈宇航",
+    "pinyin": "Chén Yǔháng",
+    "gender": "male",
+    "meaning": "Space voyage, symbolizes ambition, exploration and unlimited potential",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "杨雨欣",
+    "pinyin": "Yáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵泽宇",
+    "pinyin": "Zhào Zéyǔ",
+    "gender": "male",
+    "meaning": "Graceful universe, symbolizes kindness, broad mind and great promise",
+    "tags": ["kind", "ambitious", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄诗琪",
+    "pinyin": "Huáng Shīqí",
+    "gender": "female",
+    "meaning": "Poetic jade, symbolizes literary talent, elegance and precious qualities",
+    "tags": ["poetic", "elegant", "creative"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周子涵",
+    "pinyin": "Zhōu Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and rich inner world",
+    "tags": ["vital", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴雨桐",
+    "pinyin": "Wú Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, resilience and beautiful character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "郑子轩",
+    "pinyin": "Zhèng Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble bearing",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王欣怡",
+    "pinyin": "Wáng Xīnyí",
+    "gender": "female",
+    "meaning": "Joyful and pleasant, symbolizes happiness, optimism and friendly nature",
+    "tags": ["happy", "friendly", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李宇航",
+    "pinyin": "Lǐ Yǔháng",
+    "gender": "male",
+    "meaning": "Space navigation, symbolizes ambition, exploration and pioneering spirit",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张雅琪",
+    "pinyin": "Zhāng Yǎqí",
+    "gender": "female",
+    "meaning": "Elegant jade, symbolizes refinement, beauty and noble character",
+    "tags": ["elegant", "precious", "traditional"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "刘浩然",
+    "pinyin": "Liú Hàorán",
+    "gender": "male",
+    "meaning": "Vast and upright, symbolizes integrity, broad mind and noble spirit",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "陈思琪",
+    "pinyin": "Chén Sīqí",
+    "gender": "female",
+    "meaning": "Thoughtful jade, symbolizes wisdom, beauty and precious qualities",
+    "tags": ["intelligent", "precious", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨宇轩",
+    "pinyin": "Yáng Yǔxuān",
+    "gender": "male",
+    "meaning": "Lofty and elegant, symbolizes ambition, grace and broad vision",
+    "tags": ["ambitious", "elegant", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵雨桐",
+    "pinyin": "Zhào Yǔtóng",
+    "gender": "neutral",
+    "meaning": "Rain-nourished phoenix tree, symbolizes growth, grace and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄梓涵",
+    "pinyin": "Huáng Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and balanced character",
+    "tags": ["vital", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周诗琪",
+    "pinyin": "Zhōu Shīqí",
+    "gender": "female",
+    "meaning": "Poetic jade, symbolizes literary talent, elegance and creative spirit",
+    "tags": ["poetic", "elegant", "creative"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "吴浩然",
+    "pinyin": "Wú Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity, broad mind and righteous character",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "郑雨欣",
+    "pinyin": "Zhèng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and happy growth",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王子涵",
+    "pinyin": "Wáng Zǐhán",
+    "gender": "neutral",
+    "meaning": "Outstanding and profound, symbolizes talent, depth and noble character",
+    "tags": ["talented", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李诗琪",
+    "pinyin": "Lǐ Shīqí",
+    "gender": "female",
+    "meaning": "Poetic jade, symbolizes literary talent, elegance and precious qualities",
+    "tags": ["poetic", "elegant", "creative"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张宇航",
+    "pinyin": "Zhāng Yǔháng",
+    "gender": "male",
+    "meaning": "Space exploration, symbolizes ambition, adventure and pioneering spirit",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘雨桐",
+    "pinyin": "Liú Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, resilience and beautiful character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "陈子轩",
+    "pinyin": "Chén Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble bearing",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨佳怡",
+    "pinyin": "Yáng Jiāyí",
+    "gender": "female",
+    "meaning": "Beautiful joy, symbolizes goodness, happiness and pleasant personality",
+    "tags": ["kind", "happy", "friendly"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵思远",
+    "pinyin": "Zhào Sīyuǎn",
+    "gender": "male",
+    "meaning": "Foresight and vision, symbolizes wisdom, ambition and strategic thinking",
+    "tags": ["intelligent", "ambitious", "wise"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄雨欣",
+    "pinyin": "Huáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周子轩",
+    "pinyin": "Zhōu Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble temperament",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴雨桐",
+    "pinyin": "Wú Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and strong character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "郑浩然",
+    "pinyin": "Zhèng Hàorán",
+    "gender": "male",
+    "meaning": "Vast and upright, symbolizes integrity, broad mind and noble spirit",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "王雨桐",
+    "pinyin": "Wáng Yǔtóng",
+    "gender": "neutral",
+    "meaning": "Phoenix tree nourished by rain, symbolizes growth, grace and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "李浩然",
+    "pinyin": "Lǐ Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity, broad mind and righteous character",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "张雨欣",
+    "pinyin": "Zhāng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and new beginnings",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘子轩",
+    "pinyin": "Liú Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble bearing",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈雨桐",
+    "pinyin": "Chén Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "杨浩然",
+    "pinyin": "Yáng Hàorán",
+    "gender": "male",
+    "meaning": "Vast and upright, symbolizes integrity, broad mind and noble spirit",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "赵思琪",
+    "pinyin": "Zhào Sīqí",
+    "gender": "female",
+    "meaning": "Thoughtful jade, symbolizes wisdom, beauty and precious qualities",
+    "tags": ["intelligent", "precious", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄宇航",
+    "pinyin": "Huáng Yǔháng",
+    "gender": "male",
+    "meaning": "Space voyage, symbolizes ambition, exploration and unlimited potential",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周雨桐",
+    "pinyin": "Zhōu Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and strong character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "吴子轩",
+    "pinyin": "Wú Zǐxuān",
+    "gender": "male",
+    "meaning": "Outstanding elegance, symbolizes talent, grace and noble temperament",
+    "tags": ["elegant", "talented", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑雨桐",
+    "pinyin": "Zhèng Yǔtóng",
+    "gender": "neutral",
+    "meaning": "Rain-nourished phoenix tree, symbolizes growth, grace and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "王浩宇",
+    "pinyin": "Wáng Hàoyǔ",
+    "gender": "male",
+    "meaning": "Vast universe, symbolizes broad mind, ambition and great potential",
+    "tags": ["ambitious", "strong", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李雨桐",
+    "pinyin": "Lǐ Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张子涵",
+    "pinyin": "Zhāng Zǐhán",
+    "gender": "neutral",
+    "meaning": "Outstanding and profound, symbolizes talent, depth and rich inner world",
+    "tags": ["talented", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘思琪",
+    "pinyin": "Liú Sīqí",
+    "gender": "female",
+    "meaning": "Thoughtful jade, symbolizes wisdom, beauty and precious qualities",
+    "tags": ["intelligent", "precious", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈浩然",
+    "pinyin": "Chén Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity, broad mind and righteous spirit",
+    "tags": ["noble", "strong", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "杨雨桐",
+    "pinyin": "Yáng Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and strong character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "赵宇航",
+    "pinyin": "Zhào Yǔháng",
+    "gender": "male",
+    "meaning": "Space exploration, symbolizes ambition, adventure and pioneering spirit",
+    "tags": ["ambitious", "adventurous", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄雨桐",
+    "pinyin": "Huáng Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周子涵",
+    "pinyin": "Zhōu Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and balanced character",
+    "tags": ["vital", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴雨欣",
+    "pinyin": "Wú Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑思远",
+    "pinyin": "Zhèng Sīyuǎn",
+    "gender": "male",
+    "meaning": "Foresight and vision, symbolizes wisdom, ambition and strategic thinking",
+    "tags": ["intelligent", "ambitious", "wise"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王雨欣",
+    "pinyin": "Wáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and new beginnings",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李雨欣",
+    "pinyin": "Lǐ Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张雨桐",
+    "pinyin": "Zhāng Yǔtóng",
+    "gender": "neutral",
+    "meaning": "Rain-nourished phoenix tree, symbolizes growth, grace and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘雨欣",
+    "pinyin": "Liú Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and happy growth",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈子涵",
+    "pinyin": "Chén Zǐhán",
+    "gender": "neutral",
+    "meaning": "Vigorous and profound, symbolizes vitality, depth and well-rounded character",
+    "tags": ["vital", "intelligent", "modern"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨雨欣",
+    "pinyin": "Yáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵雨桐",
+    "pinyin": "Zhào Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and resilience",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄雨欣",
+    "pinyin": "Huáng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and new beginnings",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周雨欣",
+    "pinyin": "Zhōu Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, happiness and vibrant life",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴雨桐",
+    "pinyin": "Wú Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree in rain, symbolizes grace, beauty and strong character",
+    "tags": ["elegant", "resilient", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "郑雨欣",
+    "pinyin": "Zhèng Yǔxīn",
+    "gender": "female",
+    "meaning": "Joyful rain, symbolizes freshness, vitality and happy growth",
+    "tags": ["happy", "vital", "positive"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王嘉懿",
+    "pinyin": "Wáng Jiāyì",
+    "gender": "neutral",
+    "meaning": "Excellent virtue, symbolizes goodness, nobility and perfect character",
+    "tags": ["noble", "virtuous", "traditional"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李沐宸",
+    "pinyin": "Lǐ Mùchén",
+    "gender": "male",
+    "meaning": "Bathing in imperial grace, symbolizes blessing, nobility and bright future",
+    "tags": ["noble", "blessed", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "张若汐",
+    "pinyin": "Zhāng Ruòxī",
+    "gender": "female",
+    "meaning": "Like evening tide, symbolizes grace, rhythm and profound inner world",
+    "tags": ["elegant", "poetic", "romantic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘奕辰",
+    "pinyin": "Liú Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈语汐",
+    "pinyin": "Chén Yǔxī",
+    "gender": "female",
+    "meaning": "Words like evening tide, symbolizes eloquence, grace and profound charm",
+    "tags": ["intelligent", "elegant", "poetic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "杨景铄",
+    "pinyin": "Yáng Jǐngshuò",
+    "gender": "male",
+    "meaning": "Bright and glorious, symbolizes radiance, success and outstanding reputation",
+    "tags": ["bright", "successful", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵允汐",
+    "pinyin": "Zhào Yǔnxī",
+    "gender": "female",
+    "meaning": "Gracious evening tide, symbolizes elegance, kindness and gentle strength",
+    "tags": ["kind", "elegant", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄奕泽",
+    "pinyin": "Huáng Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周沐汐",
+    "pinyin": "Zhōu Mùxī",
+    "gender": "female",
+    "meaning": "Nourished by evening tide, symbolizes growth, grace and natural beauty",
+    "tags": ["elegant", "natural", "vital"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴昱辰",
+    "pinyin": "Wú Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑舒然",
+    "pinyin": "Zhèng Shūrán",
+    "gender": "neutral",
+    "meaning": "Calm and comfortable, symbolizes serenity, contentment and peaceful nature",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王昱泽",
+    "pinyin": "Wáng Yùzé",
+    "gender": "male",
+    "meaning": "Bright grace, symbolizes radiance, kindness and noble character",
+    "tags": ["bright", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李语桐",
+    "pinyin": "Lǐ Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张奕辰",
+    "pinyin": "Zhāng Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘若溪",
+    "pinyin": "Liú Ruòxī",
+    "gender": "female",
+    "meaning": "Like a clear stream, symbolizes purity, clarity and gentle nature",
+    "tags": ["pure", "gentle", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈宇泽",
+    "pinyin": "Chén Yǔzé",
+    "gender": "male",
+    "meaning": "Universe and grace, symbolizes broad mind, kindness and great potential",
+    "tags": ["ambitious", "kind", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨舒涵",
+    "pinyin": "Yáng Shūhán",
+    "gender": "female",
+    "meaning": "Calm and profound, symbolizes serenity, depth and graceful character",
+    "tags": ["calm", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵沐阳",
+    "pinyin": "Zhào Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄昱辰",
+    "pinyin": "Huáng Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周语汐",
+    "pinyin": "Zhōu Yǔxī",
+    "gender": "female",
+    "meaning": "Words like evening tide, symbolizes eloquence, grace and profound charm",
+    "tags": ["intelligent", "elegant", "poetic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "吴奕泽",
+    "pinyin": "Wú Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑沐宸",
+    "pinyin": "Zhèng Mùchén",
+    "gender": "male",
+    "meaning": "Bathing in imperial grace, symbolizes blessing, nobility and bright future",
+    "tags": ["noble", "blessed", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王若汐",
+    "pinyin": "Wáng Ruòxī",
+    "gender": "female",
+    "meaning": "Like evening tide, symbolizes grace, rhythm and profound inner world",
+    "tags": ["elegant", "poetic", "romantic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "李昱泽",
+    "pinyin": "Lǐ Yùzé",
+    "gender": "male",
+    "meaning": "Bright grace, symbolizes radiance, kindness and noble character",
+    "tags": ["bright", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "张语桐",
+    "pinyin": "Zhāng Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘亦泽",
+    "pinyin": "Liú Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈沐汐",
+    "pinyin": "Chén Mùxī",
+    "gender": "female",
+    "meaning": "Nourished by evening tide, symbolizes growth, grace and natural beauty",
+    "tags": ["elegant", "natural", "vital"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨昱辰",
+    "pinyin": "Yáng Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵舒然",
+    "pinyin": "Zhào Shūrán",
+    "gender": "neutral",
+    "meaning": "Calm and comfortable, symbolizes serenity, contentment and peaceful nature",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄景铄",
+    "pinyin": "Huáng Jǐngshuò",
+    "gender": "male",
+    "meaning": "Bright and glorious, symbolizes radiance, success and outstanding reputation",
+    "tags": ["bright", "successful", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周允汐",
+    "pinyin": "Zhōu Yǔnxī",
+    "gender": "female",
+    "meaning": "Gracious evening tide, symbolizes elegance, kindness and gentle strength",
+    "tags": ["kind", "elegant", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴奕辰",
+    "pinyin": "Wú Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑若溪",
+    "pinyin": "Zhèng Ruòxī",
+    "gender": "female",
+    "meaning": "Like a clear stream, symbolizes purity, clarity and gentle nature",
+    "tags": ["pure", "gentle", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王宇泽",
+    "pinyin": "Wáng Yǔzé",
+    "gender": "male",
+    "meaning": "Universe and grace, symbolizes broad mind, kindness and great potential",
+    "tags": ["ambitious", "kind", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李舒涵",
+    "pinyin": "Lǐ Shūhán",
+    "gender": "female",
+    "meaning": "Calm and profound, symbolizes serenity, depth and graceful character",
+    "tags": ["calm", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张沐阳",
+    "pinyin": "Zhāng Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘昱辰",
+    "pinyin": "Liú Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈语汐",
+    "pinyin": "Chén Yǔxī",
+    "gender": "female",
+    "meaning": "Words like evening tide, symbolizes eloquence, grace and profound charm",
+    "tags": ["intelligent", "elegant", "poetic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "杨奕泽",
+    "pinyin": "Yáng Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵沐宸",
+    "pinyin": "Zhào Mùchén",
+    "gender": "male",
+    "meaning": "Bathing in imperial grace, symbolizes blessing, nobility and bright future",
+    "tags": ["noble", "blessed", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄若汐",
+    "pinyin": "Huáng Ruòxī",
+    "gender": "female",
+    "meaning": "Like evening tide, symbolizes grace, rhythm and profound inner world",
+    "tags": ["elegant", "poetic", "romantic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周昱泽",
+    "pinyin": "Zhōu Yùzé",
+    "gender": "male",
+    "meaning": "Bright grace, symbolizes radiance, kindness and noble character",
+    "tags": ["bright", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴语桐",
+    "pinyin": "Wú Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "郑奕泽",
+    "pinyin": "Zhèng Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王沐汐",
+    "pinyin": "Wáng Mùxī",
+    "gender": "female",
+    "meaning": "Nourished by evening tide, symbolizes growth, grace and natural beauty",
+    "tags": ["elegant", "natural", "vital"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李昱辰",
+    "pinyin": "Lǐ Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张舒然",
+    "pinyin": "Zhāng Shūrán",
+    "gender": "neutral",
+    "meaning": "Calm and comfortable, symbolizes serenity, contentment and peaceful nature",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "刘景铄",
+    "pinyin": "Liú Jǐngshuò",
+    "gender": "male",
+    "meaning": "Bright and glorious, symbolizes radiance, success and outstanding reputation",
+    "tags": ["bright", "successful", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈允汐",
+    "pinyin": "Chén Yǔnxī",
+    "gender": "female",
+    "meaning": "Gracious evening tide, symbolizes elegance, kindness and gentle strength",
+    "tags": ["kind", "elegant", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨奕辰",
+    "pinyin": "Yáng Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵若溪",
+    "pinyin": "Zhào Ruòxī",
+    "gender": "female",
+    "meaning": "Like a clear stream, symbolizes purity, clarity and gentle nature",
+    "tags": ["pure", "gentle", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄宇泽",
+    "pinyin": "Huáng Yǔzé",
+    "gender": "male",
+    "meaning": "Universe and grace, symbolizes broad mind, kindness and great potential",
+    "tags": ["ambitious", "kind", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周舒涵",
+    "pinyin": "Zhōu Shūhán",
+    "gender": "female",
+    "meaning": "Calm and profound, symbolizes serenity, depth and graceful character",
+    "tags": ["calm", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴沐阳",
+    "pinyin": "Wú Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑昱辰",
+    "pinyin": "Zhèng Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王语汐",
+    "pinyin": "Wáng Yǔxī",
+    "gender": "female",
+    "meaning": "Words like evening tide, symbolizes eloquence, grace and profound charm",
+    "tags": ["intelligent", "elegant", "poetic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "李奕泽",
+    "pinyin": "Lǐ Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "张沐宸",
+    "pinyin": "Zhāng Mùchén",
+    "gender": "male",
+    "meaning": "Bathing in imperial grace, symbolizes blessing, nobility and bright future",
+    "tags": ["noble", "blessed", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "刘若汐",
+    "pinyin": "Liú Ruòxī",
+    "gender": "female",
+    "meaning": "Like evening tide, symbolizes grace, rhythm and profound inner world",
+    "tags": ["elegant", "poetic", "romantic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "陈昱泽",
+    "pinyin": "Chén Yùzé",
+    "gender": "male",
+    "meaning": "Bright grace, symbolizes radiance, kindness and noble character",
+    "tags": ["bright", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "杨语桐",
+    "pinyin": "Yáng Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "赵奕泽",
+    "pinyin": "Zhào Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄沐汐",
+    "pinyin": "Huáng Mùxī",
+    "gender": "female",
+    "meaning": "Nourished by evening tide, symbolizes growth, grace and natural beauty",
+    "tags": ["elegant", "natural", "vital"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周昱辰",
+    "pinyin": "Zhōu Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴舒然",
+    "pinyin": "Wú Shūrán",
+    "gender": "neutral",
+    "meaning": "Calm and comfortable, symbolizes serenity, contentment and peaceful nature",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑景铄",
+    "pinyin": "Zhèng Jǐngshuò",
+    "gender": "male",
+    "meaning": "Bright and glorious, symbolizes radiance, success and outstanding reputation",
+    "tags": ["bright", "successful", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王允汐",
+    "pinyin": "Wáng Yǔnxī",
+    "gender": "female",
+    "meaning": "Gracious evening tide, symbolizes elegance, kindness and gentle strength",
+    "tags": ["kind", "elegant", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李奕辰",
+    "pinyin": "Lǐ Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "张若溪",
+    "pinyin": "Zhāng Ruòxī",
+    "gender": "female",
+    "meaning": "Like a clear stream, symbolizes purity, clarity and gentle nature",
+    "tags": ["pure", "gentle", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘宇泽",
+    "pinyin": "Liú Yǔzé",
+    "gender": "male",
+    "meaning": "Universe and grace, symbolizes broad mind, kindness and great potential",
+    "tags": ["ambitious", "kind", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈舒涵",
+    "pinyin": "Chén Shūhán",
+    "gender": "female",
+    "meaning": "Calm and profound, symbolizes serenity, depth and graceful character",
+    "tags": ["calm", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨沐阳",
+    "pinyin": "Yáng Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵昱辰",
+    "pinyin": "Zhào Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄语汐",
+    "pinyin": "Huáng Yǔxī",
+    "gender": "female",
+    "meaning": "Words like evening tide, symbolizes eloquence, grace and profound charm",
+    "tags": ["intelligent", "elegant", "poetic"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周奕泽",
+    "pinyin": "Zhōu Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴沐宸",
+    "pinyin": "Wú Mùchén",
+    "gender": "male",
+    "meaning": "Bathing in imperial grace, symbolizes blessing, nobility and bright future",
+    "tags": ["noble", "blessed", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "郑若汐",
+    "pinyin": "Zhèng Ruòxī",
+    "gender": "female",
+    "meaning": "Like evening tide, symbolizes grace, rhythm and profound inner world",
+    "tags": ["elegant", "poetic", "romantic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "王昱泽",
+    "pinyin": "Wáng Yùzé",
+    "gender": "male",
+    "meaning": "Bright grace, symbolizes radiance, kindness and noble character",
+    "tags": ["bright", "kind", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李语桐",
+    "pinyin": "Lǐ Yǔtóng",
+    "gender": "female",
+    "meaning": "Phoenix tree with eloquent voice, symbolizes grace, talent and beauty",
+    "tags": ["elegant", "talented", "natural"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张奕泽",
+    "pinyin": "Zhāng Yìzé",
+    "gender": "male",
+    "meaning": "Radiant grace, symbolizes brilliance, kindness and attractive personality",
+    "tags": ["bright", "kind", "charming"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "刘沐汐",
+    "pinyin": "Liú Mùxī",
+    "gender": "female",
+    "meaning": "Nourished by evening tide, symbolizes growth, grace and natural beauty",
+    "tags": ["elegant", "natural", "vital"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "陈昱辰",
+    "pinyin": "Chén Yùchén",
+    "gender": "male",
+    "meaning": "Bright stars, symbolizes radiance, talent and bright future",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨舒然",
+    "pinyin": "Yáng Shūrán",
+    "gender": "neutral",
+    "meaning": "Calm and comfortable, symbolizes serenity, contentment and peaceful nature",
+    "tags": ["calm", "peaceful", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵景铄",
+    "pinyin": "Zhào Jǐngshuò",
+    "gender": "male",
+    "meaning": "Bright and glorious, symbolizes radiance, success and outstanding reputation",
+    "tags": ["bright", "successful", "noble"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "黄允汐",
+    "pinyin": "Huáng Yǔnxī",
+    "gender": "female",
+    "meaning": "Gracious evening tide, symbolizes elegance, kindness and gentle strength",
+    "tags": ["kind", "elegant", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "周奕辰",
+    "pinyin": "Zhōu Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴若溪",
+    "pinyin": "Wú Ruòxī",
+    "gender": "female",
+    "meaning": "Like a clear stream, symbolizes purity, clarity and gentle nature",
+    "tags": ["pure", "gentle", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑宇泽",
+    "pinyin": "Zhèng Yǔzé",
+    "gender": "male",
+    "meaning": "Universe and grace, symbolizes broad mind, kindness and great potential",
+    "tags": ["ambitious", "kind", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "王舒涵",
+    "pinyin": "Wáng Shūhán",
+    "gender": "female",
+    "meaning": "Calm and profound, symbolizes serenity, depth and graceful character",
+    "tags": ["calm", "intelligent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李沐阳",
+    "pinyin": "Lǐ Mùyáng",
+    "gender": "neutral",
+    "meaning": "Bathing in sunlight, symbolizes warmth, positivity and healthy growth",
+    "tags": ["warm", "positive", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "徐清晏",
+    "pinyin": "Xú Qīngyàn",
+    "gender": "male",
+    "meaning": "Clear and peaceful, symbolizes purity, calmness and noble character",
+    "tags": ["pure", "calm", "noble"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "孙晚星",
+    "pinyin": "Sūn Wǎnxīng",
+    "gender": "female",
+    "meaning": "Evening star, symbolizes brightness, beauty and quiet charm",
+    "tags": ["bright", "romantic", "elegant"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周之恒",
+    "pinyin": "Zhōu Zhīhéng",
+    "gender": "male",
+    "meaning": "Eternal perseverance, symbolizes persistence, stability and strong will",
+    "tags": ["persistent", "stable", "strong"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "吴知遥",
+    "pinyin": "Wú Zhīyáo",
+    "gender": "neutral",
+    "meaning": "Knowledge and far-sightedness, symbolizes wisdom, vision and broad mind",
+    "tags": ["intelligent", "wise", "ambitious"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑书言",
+    "pinyin": "Zhèng Shūyán",
+    "gender": "male",
+    "meaning": "Book and words, symbolizes knowledge, eloquence and literary talent",
+    "tags": ["intelligent", "talented", "traditional"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王令仪",
+    "pinyin": "Wáng Lìngyí",
+    "gender": "female",
+    "meaning": "Noble demeanor, symbolizes elegance, dignity and graceful bearing",
+    "tags": ["elegant", "noble", "traditional"],
+    "suitability": {
+      "business": 9,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "李思齐",
+    "pinyin": "Lǐ Sīqí",
+    "gender": "male",
+    "meaning": "Learning from excellence, symbolizes ambition, virtue and self-improvement",
+    "tags": ["virtuous", "ambitious", "wise"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "张之瑶",
+    "pinyin": "Zhāng Zhīyáo",
+    "gender": "female",
+    "meaning": "Precious jade, symbolizes beauty, purity and noble character",
+    "tags": ["precious", "pure", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘景行",
+    "pinyin": "Liú Jǐngxíng",
+    "gender": "male",
+    "meaning": "Respectable conduct, symbolizes noble character and upright personality",
+    "tags": ["noble", "virtuous", "traditional"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "陈知予",
+    "pinyin": "Chén Zhīyǔ",
+    "gender": "neutral",
+    "meaning": "Wisdom and generosity, symbolizes intelligence, kindness and giving spirit",
+    "tags": ["intelligent", "kind", "generous"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨遇安",
+    "pinyin": "Yáng Yù'ān",
+    "gender": "neutral",
+    "meaning": "Meet peace wherever you go, symbolizes contentment, peace and good fortune",
+    "tags": ["peaceful", "blessed", "gentle"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵望舒",
+    "pinyin": "Zhào Wàngshū",
+    "gender": "neutral",
+    "meaning": "Gaze at the comfortable moon, symbolizes elegance, poetry and peaceful nature",
+    "tags": ["poetic", "elegant", "calm"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "黄清越",
+    "pinyin": "Huáng Qīngyuè",
+    "gender": "female",
+    "meaning": "Clear and transcendent, symbolizes purity, excellence and outstanding character",
+    "tags": ["pure", "excellent", "elegant"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "周承宇",
+    "pinyin": "Zhōu Chéngyǔ",
+    "gender": "male",
+    "meaning": "Inherit the universe, symbolizes responsibility, ambition and broad mind",
+    "tags": ["responsible", "ambitious", "strong"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "吴念安",
+    "pinyin": "Wú Niàn'ān",
+    "gender": "female",
+    "meaning": "Thoughts of peace, symbolizes kindness, tranquility and warm heart",
+    "tags": ["kind", "peaceful", "warm"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑砚秋",
+    "pinyin": "Zhèng Yànqiū",
+    "gender": "male",
+    "meaning": "Inkstone and autumn, symbolizes literary talent, maturity and profound culture",
+    "tags": ["talented", "mature", "traditional"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "王慕晴",
+    "pinyin": "Wáng Mùqíng",
+    "gender": "female",
+    "meaning": "Admire the sunny day, symbolizes positivity, optimism and bright personality",
+    "tags": ["positive", "optimistic", "bright"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "李砚辞",
+    "pinyin": "Lǐ Yàncí",
+    "gender": "male",
+    "meaning": "Inkstone and rhetoric, symbolizes literary talent, eloquence and cultural depth",
+    "tags": ["talented", "intelligent", "creative"],
+    "suitability": {
+      "business": 8,
+      "daily": 8,
+      "creative": 10
+    }
+  },
+  {
+    "name": "张知夏",
+    "pinyin": "Zhāng Zhīxià",
+    "gender": "female",
+    "meaning": "Know the summer, symbolizes vitality, warmth and appreciation for beauty",
+    "tags": ["vital", "warm", "natural"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "刘奕承",
+    "pinyin": "Liú Yìchéng",
+    "gender": "male",
+    "meaning": "Radiant inheritance, symbolizes brilliance, responsibility and bright future",
+    "tags": ["bright", "responsible", "ambitious"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "陈知予",
+    "pinyin": "Chén Zhīyǔ",
+    "gender": "female",
+    "meaning": "Wisdom and generosity, symbolizes intelligence, kindness and giving spirit",
+    "tags": ["intelligent", "kind", "generous"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨景澄",
+    "pinyin": "Yáng Jǐngchéng",
+    "gender": "male",
+    "meaning": "Scenery and clarity, symbolizes purity, broad mind and clear vision",
+    "tags": ["pure", "wise", "broad-minded"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "赵语安",
+    "pinyin": "Zhào Yǔ'ān",
+    "gender": "female",
+    "meaning": "Words and peace, symbolizes eloquence, tranquility and gentle nature",
+    "tags": ["intelligent", "peaceful", "gentle"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "黄奕恒",
+    "pinyin": "Huáng Yìhéng",
+    "gender": "male",
+    "meaning": "Radiant perseverance, symbolizes brilliance, persistence and strong will",
+    "tags": ["bright", "persistent", "strong"],
+    "suitability": {
+      "business": 10,
+      "daily": 8,
+      "creative": 8
+    }
+  },
+  {
+    "name": "周知予",
+    "pinyin": "Zhōu Zhīyǔ",
+    "gender": "neutral",
+    "meaning": "Wisdom and generosity, symbolizes intelligence, kindness and giving spirit",
+    "tags": ["intelligent", "kind", "generous"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 9
+    }
+  },
+  {
+    "name": "吴奕辰",
+    "pinyin": "Wú Yìchén",
+    "gender": "male",
+    "meaning": "Radiant stars, symbolizes brilliance, talent and outstanding achievements",
+    "tags": ["bright", "talented", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "郑知遥",
+    "pinyin": "Zhèng Zhīyáo",
+    "gender": "neutral",
+    "meaning": "Knowledge and far-sightedness, symbolizes wisdom, vision and broad mind",
+    "tags": ["intelligent", "wise", "ambitious"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 9
+    }
   }
 ]
