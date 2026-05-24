@@ -21,7 +21,7 @@
           </div>
           <div class="share-card-footer">
             <p>Generated with ❤️ by Chinese Name Generator</p>
-            <p class="website">yourwebsite.com</p>
+            <p class="website">chinese-name-generator-eosin-omega.vercel.app</p>
           </div>
         </div>
 
@@ -95,7 +95,7 @@ const shareToSocial = async () => {
     }
   } else {
     // 降级处理：复制分享文案到剪贴板
-    const shareText = `My Chinese name is ${props.name.name} (${props.name.pinyin}) which means "${props.name.meaning}". Generate yours at yourwebsite.com!`
+    const shareText = `My Chinese name is ${props.name.name} (${props.name.pinyin}) which means "${props.name.meaning}". Generate yours at chinese-name-generator-eosin-omega.vercel.app!`
     await navigator.clipboard.writeText(shareText)
     alert('Share text copied to clipboard! You can paste it to social media.')
   }
