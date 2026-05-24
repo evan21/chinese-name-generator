@@ -1,0 +1,98 @@
+[
+  {
+    "name": "李梅",
+    "pinyin": "Lǐ Méi",
+    "gender": "female",
+    "meaning": "Beautiful plum blossom, symbolizes resilience and elegance",
+    "tags": ["elegant", "traditional", "nature"],
+    "suitability": {
+      "business": 8,
+      "daily": 9,
+      "creative": 7
+    }
+  },
+  {
+    "name": "王伟",
+    "pinyin": "Wáng Wěi",
+    "gender": "male",
+    "meaning": "Great and powerful, symbolizes ambition and success",
+    "tags": ["strong", "traditional", "professional"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 6
+    }
+  },
+  {
+    "name": "张诗雨",
+    "pinyin": "Zhāng Shīyǔ",
+    "gender": "female",
+    "meaning": "Poetic rain, symbolizes grace, creativity and romance",
+    "tags": ["elegant", "creative", "poetic"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 10
+    }
+  },
+  {
+    "name": "刘浩然",
+    "pinyin": "Liú Hàorán",
+    "gender": "male",
+    "meaning": "Vast and noble, symbolizes integrity and broad mind",
+    "tags": ["strong", "noble", "modern"],
+    "suitability": {
+      "business": 9,
+      "daily": 8,
+      "creative": 7
+    }
+  },
+  {
+    "name": "陈曦",
+    "pinyin": "Chén Xī",
+    "gender": "neutral",
+    "meaning": "Morning sunlight, symbolizes hope, new beginnings and vitality",
+    "tags": ["bright", "modern", "positive"],
+    "suitability": {
+      "business": 8,
+      "daily": 10,
+      "creative": 9
+    }
+  },
+  {
+    "name": "杨紫琪",
+    "pinyin": "Yáng Zǐqí",
+    "gender": "female",
+    "meaning": "Beautiful jade, symbolizes purity, preciousness and elegance",
+    "tags": ["elegant", "precious", "traditional"],
+    "suitability": {
+      "business": 7,
+      "daily": 9,
+      "creative": 8
+    }
+  },
+  {
+    "name": "赵宇轩",
+    "pinyin": "Zhào Yǔxuān",
+    "gender": "male",
+    "meaning": "Lofty space, symbolizes ambition, freedom and broad vision",
+    "tags": ["modern", "ambitious", "creative"],
+    "suitability": {
+      "business": 8,
+      "daily": 8,
+      "creative": 9
+    }
+  },
+  {
+    "name": "林悦",
+    "pinyin": "Lín Yuè",
+    "gender": "neutral",
+    "meaning": "Joyful forest, symbolizes happiness, vitality and harmony with nature",
+    "tags": ["happy", "natural", "friendly"],
+    "suitability": {
+      "business": 7,
+      "daily": 10,
+      "creative": 8
+    }
+  }
+]
