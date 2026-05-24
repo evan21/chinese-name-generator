@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.29",
+    "@stripe/stripe-js": "^9.6.0",
+    "@supabase/supabase-js": "^2.106.1",
+    "html2canvas": "^1.4.1",
     "pinyin-pro": "^3.24.0",
-    "html2canvas": "^1.4.1"
+    "vue": "^3.4.29",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
